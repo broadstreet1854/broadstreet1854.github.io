@@ -5,8 +5,11 @@ Para la elaboración de los mapas se utilizaron los [datos digitalizados por Rob
 
 <figure>
   <img src="https://github.com/broadstreet1854/broadstreet1854.github.io/raw/main/img/819px-Snow-cholera-map-1.jpg" alt="Mapa de John Snow">
-  <figcaption align="center">Mapa original de John Snow que muestra la ubicación de los casos de cólera. Fuente: <a href="https://archive.org/details/b28985266/page/n57/mode/2up"><em>On the Mode of Communication of Cholera</em>, por John Snow.</a>
+  <figcaption align="center">Mapa original de John Snow. Fuente: <a href="https://archive.org/details/b28985266/page/n57/mode/2up"><em>On the Mode of Communication of Cholera</em>, por John Snow.</a>
   </figcaption>
 </figure>
+<p>
+
+El mapa de John Snow ...
 
 El propósito de estos mapas es servir como ejemplos de diferentes tecnologías de análisis y visualización de datos geoespaciales.
