@@ -3,6 +3,6 @@ Este sitio web contiene varias versiones digitales del mapa elaborado por [John 
 
 Para la elaboración de los mapas se utilizaron los [datos digitalizados por Robin Wilson](https://blog.rtwilson.com/john-snows-famous-cholera-analysis-data-in-modern-gis-formats/).
 
-![Mapa de John Snow][https://github.com/broadstreet1854/broadstreet1854.github.io/raw/main/img/512px-Snow-cholera-map-1.jpg]
+![Mapa de John Snow](https://github.com/broadstreet1854/broadstreet1854.github.io/raw/main/img/512px-Snow-cholera-map-1.jpg)
 
 El propósito de estos mapas es servir como ejemplos de diferentes tecnologías de análisis y visualización de datos geoespaciales.
